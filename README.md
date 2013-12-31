@@ -7,13 +7,12 @@ This is not meant as a solution for all types of companies or people, it's going
 ## Goals
 The things I want to solve are:
 
-- Automatically check my business account for incomes.
-- Automatically check my business account for expenses, 
-  - And guess the proper tax rate based on the type of expenditure.
-- Show monthly, quartely and yearly incomes, expenditures and taxes.
-- Allow me to change things when needed.
-- Automatically calculate the quartely tax based on the swedish tax system.
-- Automatically calculate the yearly tax based on the swedish tax system.
+- Automatically check my account for incomes.
+- Automatically check my account for expenses, 
+- Show monthly, quartely and yearly incomes and expenditures.
+- Set monthly budgets
+- Send a msg(text message or email) when different marks as passed,
+  as when spent more than 1.000kr
 
 ## Solving
 How will I solve this? Well, I haven't thought much about the interface, user friendly from my POW could be the command line as well as a webapp. The plan is too tackle the logic first, it's quite complicated to get it right. A lot the of the goals are to automate the bookkeeping process, which means that the interface will be less of a problem.
