@@ -4,6 +4,8 @@ I have a problem. The problem is that bookkeeping is boring and hard work. I thi
 
 This is not meant as a solution for all types of companies or people, it's going to be pretty specific to my current situation. It also helps that me and a friend have tried to develop similar applications before.
 
+Hm, actually got somewhat of an API against SEB, but this project will be put on hold for a while. 'Cause of the crappy mobile interface of SEB.
+
 ## Goals
 The things I want to solve are:
 
